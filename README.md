@@ -6,7 +6,10 @@ I did the *"Git and GitHub Tutorial - Version Control for Beginners"*, by **Free
 Available in: https://www.freecodecamp.org/news/git-and-github-for-beginners/
 
 02/01/2022:  
-Lost my first README.md file forcing a *push*.
+I lost my first README.md file forcing a *push*.
 
 03/01/2022:  
-Made a *pull* to edit my README.md locally. Then managed to *push* the modified file.
+I made a *pull* to edit my README.md locally. Then I managed to *push* the modified file.
+
+04/01/2022:  
+Minor text fixes.
